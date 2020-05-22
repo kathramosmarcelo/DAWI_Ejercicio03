@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\CURSOS DE QUINTO CICLO - 2020 20000000000000000000000000000000000000000000000000\DESARROLLO DE APLICACIONES WEB I\SEMANA_03\compu\DAWI_Semana03"/>
+			<item value="D:\CURSOS DE QUINTO CICLO - 2020 20000000000000000000000000000000000000000000000000\DESARROLLO DE APLICACIONES WEB I\SEMANA_03\DAWI_Semana03"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
